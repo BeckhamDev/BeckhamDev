@@ -9,7 +9,7 @@
 <h4>Here you'll find everything I've been working on over the last few years.</h4>
 <p>
   https://www.linkedin.com/in/guilherme-moraes-772332213/
-  <br/>
+</p>
 - 🐱‍💻 I'm a FullStack Developer.
   
 - 💻 Backend Technologies : PHP, Laravel and a few of Python.
