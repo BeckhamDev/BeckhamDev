@@ -24,7 +24,7 @@
 
   <img height="170em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Javascript,Ruby,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
  
-  <img align='left' src="https://pin.it/5QG7xdB" width="200">
+  <img align='left' src="https://pin.it/5QG7xdB.gif" width="200">
 </div>
               
     
