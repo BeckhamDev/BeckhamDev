@@ -22,8 +22,9 @@
 
 - 😺 A little secret about me is that I am a cat lover.
 <br/>
-</div>
 <img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamDev&&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Javascript,Ruby,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
+</div>
+
               
     
                                                                                                  
