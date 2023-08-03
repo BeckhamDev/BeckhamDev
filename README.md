@@ -22,9 +22,11 @@
 
 - 😺 A little secret about me is that I am a cat lover.
 
-  <img height="170em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Javascript,Ruby,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
- 
-  <img align='left' src="https://pin.it/5QG7xdB.gif" width="200">
+  <div>
+    <a href="https://github.com/BeckhamDev">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
 </div>
               
     
