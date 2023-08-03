@@ -12,7 +12,7 @@
   https://www.linkedin.com/in/guilherme-moraes-772332213/
 - 🐱‍💻 I'm a FullStack Developer.
   
-- 💻 Backend Technologies : PHP, Laravel, TypeScript and a few of Python.
+- 💻 Backend Technologies : PHP, Laravel and a few of Python.
 
 - 🎨 Frontend Technologies : Vue.js, Bootstrap and a few of React.
   
@@ -23,6 +23,8 @@
 - 😺 A little secret about me is that I am a cat lover.
 <br/>
 <img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamDev&&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Javascript,Ruby,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
+
+<div class="tenor-gif-embed" data-postid="26241142" data-share-method="host" data-aspect-ratio="0.5" data-width="100%"><a href="https://tenor.com/view/pain-mexican-cat-mexican-cat-mexcian-cat-pain-gif-26241142">Pain Mexican Cat GIF</a>from <a href="https://tenor.com/search/pain-gifs">Pain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
               
