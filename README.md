@@ -22,10 +22,8 @@
 
 - 😺 A little secret about me is that I am a cat lover.
 
-  <div>
-    <a href="https://github.com/BeckhamDev">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamDev&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
               
     
