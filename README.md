@@ -23,9 +23,8 @@
 - 😺 A little secret about me is that I am a cat lover.
 
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamDev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamDev&layout=compact&langs_count=7&theme=dracula"/>
 <br/>
-<img height="170em" src="https://readme-stats.clckblog.space/api/top-langs/?username=BeckhamDev&layout=compactlangs_count=7&card_width=380&hide_border=true&bg_color=0D1117"/>
 </div>
               
     
