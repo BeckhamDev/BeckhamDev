@@ -10,7 +10,7 @@
 
 - 🐱‍💻 I'm a FullStack Developer.
   
-- 💻 Backend Technologies : PHP, Laravel and a few of Python.
+- 💻 Backend Technologies : PHP, Laravel and Golang
 
 - 🎨 Frontend Technologies : Vue.js, Bootstrap and a few of React.
   
